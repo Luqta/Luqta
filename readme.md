@@ -1,6 +1,6 @@
 ## Informações básicas
 
-Me chamo Lucas Mateus, sou de Guarulhos, comecei recentemente na área da ~~depressão~~ programação, ex-jogador de lol(finalmente sai desse mundo).
+Me chamo Lucas Mateus, sou de Guarulhos, comecei recentemente na área da programação.
 
 ## Informações detalhadas
 * **Nome:**  Lucas Mateus
@@ -9,7 +9,5 @@ Me chamo Lucas Mateus, sou de Guarulhos, comecei recentemente na área da ~~depr
 * **Faculdade:** Sistemas de informação, ENIAC.
 
 ## Curiosidades 
-* Fazia servidores de minecraft com java para meus amigos com 12 anos;
-* One Piece stan;
-* Apreciador do clipe do [sorrizo ronaldo](https://www.youtube.com/watch?v=iSqJwuNJHBI);
+* Fazia servidores de minecraft com java para meus amigos com 12 ano
 * Proplayer de Stardew Valley nas horas vagas.
