@@ -9,5 +9,5 @@ Me chamo Lucas Mateus, sou de Guarulhos, comecei recentemente na área da progra
 * **Faculdade:** Sistemas de informação, ENIAC.
 
 ## Curiosidades 
-* Fazia servidores de minecraft com java para meus amigos com 12 ano
+* Fazia servidores de minecraft com java para meus amigos com 12 anos
 * Proplayer de Stardew Valley nas horas vagas.
