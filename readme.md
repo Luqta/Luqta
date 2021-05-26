@@ -5,7 +5,7 @@ Me chamo Lucas Mateus, sou de Guarulhos, comecei recentemente na área da progra
 ## Informações detalhadas
 * **Nome:**  Lucas Mateus
 * **Cidade atual:** Guarulhos, São Paulo
-* **Stack:** HTML, CSS, SQL, React Native.
+* **Stack:** HTML, CSS, MySQL, React Native.
 * **Faculdade:** Sistemas de informação, ENIAC.
 
 ## Curiosidades 
