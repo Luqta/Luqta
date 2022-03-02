@@ -17,5 +17,5 @@ My name is Lucas Mateus,I'm from Guarulhos - São Paulo, started recently in pro
 * **Name:**  Lucas Mateus;
 * **Actual city:** Guarulhos, São Paulo;
 * **Stack:** HTML, CSS, JS, MySQL, React Native, Firebase e Redux;
-* * **Actually learning:** React;
+* **Actually learning:** React;
 * **College:** Information System, ENIAC;
