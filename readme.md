@@ -3,9 +3,10 @@
 Me chamo Lucas Mateus, sou de Guarulhos - São Paulo, comecei recentemente na área da programação.
 
 ## Informações detalhadas
-* **Nome:**  Lucas Mateus
-* **Cidade atual:** Guarulhos, São Paulo
-* **Stack:** HTML, CSS, JS, MySQL, React Native, Firebase e Redux.
+* **Nome:**  Lucas Mateus;
+* **Cidade atual:** Guarulhos, São Paulo;
+* **Stack:** HTML, CSS, JS, MySQL, React Native, Firebase e Redux;
+* **Atualmente aprendendo:** React;
 * **Faculdade:** Sistemas de informação, ENIAC.
 
 ## Basic Info
@@ -13,7 +14,8 @@ Me chamo Lucas Mateus, sou de Guarulhos - São Paulo, comecei recentemente na á
 My name is Lucas Mateus,I'm from Guarulhos - São Paulo, started recently in programming area
 
 ## Detailed Info
-* **Name:**  Lucas Mateus
-* **Actual city:** Guarulhos, São Paulo
-* **Stack:** HTML, CSS, JS, MySQL, React Native, Firebase e Redux.
-* **College:** Information System, ENIAC.
+* **Name:**  Lucas Mateus;
+* **Actual city:** Guarulhos, São Paulo;
+* **Stack:** HTML, CSS, JS, MySQL, React Native, Firebase e Redux;
+* * **Actually learning:** React;
+* **College:** Information System, ENIAC;
